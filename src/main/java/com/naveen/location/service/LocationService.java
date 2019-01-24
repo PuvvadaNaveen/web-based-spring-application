@@ -8,7 +8,7 @@ public interface LocationService {
 
 	Location saveLocation(Location location);
 
-	Location updateLocatio(Location location);
+	Location updateLocation(Location location);
 
 	void deleteLocation(Location location);
 

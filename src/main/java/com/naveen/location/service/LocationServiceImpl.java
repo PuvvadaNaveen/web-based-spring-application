@@ -21,7 +21,7 @@ public class LocationServiceImpl implements LocationService {
 	}
 
 	@Override
-	public Location updateLocatio(Location location) {
+	public Location updateLocation(Location location) {
 		// TODO Auto-generated method stub
 		return repository.save(location);
 

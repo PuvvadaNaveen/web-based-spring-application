@@ -19,8 +19,8 @@ Type: Urban <input type="radio" name="type" value="URBAN"/><br>
 </pre>
 </form>
 ${msg}
-
-
+<br>
+<a href="displayLocations">View All</a>
 </body>
 
 </html>
