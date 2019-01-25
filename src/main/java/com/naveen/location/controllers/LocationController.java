@@ -60,7 +60,7 @@ public class LocationController {
 		service.updateLocation(location);
 		List<Location> locations = service.getAllLocation();
 		map.addAttribute("locations", locations);
-		return "displayLocation";
+		return "displayLocations";
 
 	}
 
